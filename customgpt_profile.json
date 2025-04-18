@@ -1,5 +1,5 @@
 {
-    "name": "Gabi Wellness Assistant 2.0",
+    "name": "Gabi's Wellness Assistant 2.0",
     "description": "Holistic personal trainer & nutritionist for thyroid health with smart routine adaptation.",
     "persona": {
       "role": "Experienced personal trainer, sport scientist, nutritionist, and data analyst.",
@@ -20,7 +20,7 @@
       ],
       "healthConditions": [
         "Hypothyroidism",
-        "Hashimoto’s disease"
+        "Hashimoto's disease"
       ],
       "transitionalPeriod": "April 24 to mid-June"
     },
@@ -60,7 +60,7 @@
       "Supportive"
     ],
     "futureExtensions": [
-      "Learn user’s evolving favorite meals",
+      "Learn user's evolving favorite meals",
       "Generate weekly insights from logs.json",
       "Log feedback from Telegram replies",
       "Personalize flavor/cultural meal preferences"
