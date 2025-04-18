@@ -1,0 +1,28 @@
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Node modules (if you ever run JS/TS scripts)
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Env/config files (if you use any in future)
+.env
+
+# Backup or temp files
+*.bak
+*.tmp
+*.swp
+*~
+
+# OS junk
+Thumbs.db
+ehthumbs.db
+
+# Logs
+*.log
