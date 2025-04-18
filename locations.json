@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Brakelsiek",
+      "timezone": "Europe/Berlin",
+      "kitchen": "full",
+      "availableGear": ["Yoga Mat", "Bodyweight", "Running"],
+      "notes": "Good place to run, yoga mat, bodyweight exercises."
+    },
+    {
+      "name": "Camille_House",
+      "timezone": "Europe/Brussels",
+      "kitchen": "none",
+      "availableGear": ["Bodyweight", "Running"],
+      "notes": "Good place to run, bodyweight exercises. Visiting Camille."
+    },
+    {
+      "name": "Caterina_Apartment",
+      "timezone": "Europe/Berlin",
+      "kitchen": "full",
+      "availableGear": ["Bodyweight", "Running"],
+      "notes": "Good place to run, bodyweight exercises. Visiting Caterina."
+    },
+    {
+      "name": "Bonn",
+      "timezone": "Europe/Berlin",
+      "kitchen": "partial",
+      "availableGear": ["Running"],
+      "notes": "Good place to run. Limited kitchen, expect busy days."
+    },
+    {
+      "name": "Lisbon_Apartment",
+      "timezone": "Europe/Lisbon",
+      "kitchen": "full",
+      "availableGear": ["Open Gym Access", "Running", "Classes"],
+      "notes": "Access to open gym with daily classes. Great for variety. Running also possible."
+    }
+  ]
+  
